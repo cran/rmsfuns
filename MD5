@@ -1,14 +1,14 @@
-24082848265cc900fd6eb70461e3178d *DESCRIPTION
+0086085c5fa0bf4c27f7e4a67b015077 *DESCRIPTION
 a1051bec1b83a5042c8b69eeb260d03f *NAMESPACE
 9eb40c557c3b7542059870773c5e3bf3 *R/PromptAsTime.R
-bb5316cfa7f4c3d51f8ac4cb0bed7896 *R/Safe_Return.portfolio.R
+e283def0ac4fa400865a8722aa17ce3e *R/Safe_Return.portfolio.R
 0c8c7db2aafa68a40fefec13df7e16c1 *R/ViewXL.R
 a087350fcf9438551d9b7a318b94063f *R/build_path.R
 a806a203ede2cd87d6cc5de620257ae3 *R/dateconverter.R
 ba366350f3df909f88b0ddf347a8306c *R/load_pkg.R
 6f1191054717e7bede13a90612783356 *build/vignette.rds
 81e47fcdbe90e02b6214be1f898881e5 *inst/doc/rmsfuns.Rmd
-e6bf149be42844587e3e8f3ba902d0f2 *inst/doc/rmsfuns.html
+d849292e1f0b35e4642ab20284002036 *inst/doc/rmsfuns.html
 79ebf92f80672560436bb3fd6ae7620a *man/PromptAsTime.Rd
 97109b76b93016887281f97873fcc93c *man/Safe_Return.portfolio.Rd
 e53505c9c720e52b7643fab3cb9e3218 *man/ViewXL.Rd
